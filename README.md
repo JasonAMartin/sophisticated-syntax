@@ -18,7 +18,7 @@ apm install sophisticated-syntax
 
 Here's a screen of this theme in action for 0.1.0. The UI theme is [Sophisticated UI](https://github.com/JasonAMartin/sophisticated-ui).
 
-![sophisticated-syntax](http://i.imgur.com/VMu8cd2)
+![sophisticated-syntax](http://i.imgur.com/VMu8cd2.png)
 
 ### etc
 
