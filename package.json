@@ -1,0 +1,16 @@
+{
+  "name": "sophisticated-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Atom.io dark-based syntax that compliments Sophisticated UI.",
+  "keywords": [
+    "dark",
+    "sophisticated",
+    "syntax"
+  ],
+  "repository": "https://github.com/jasonamartin/sophisticated-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
